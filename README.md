@@ -51,7 +51,7 @@ What if we could:
 TPOT is like your ML co-pilot. It automates pipeline design by using genetic algorithms to evolve the best model.  
 - *Implementation*: Use TPOT to train and optimize models for a sample dataset.  
 - *Evaluation*: Analyze how well TPOT identifies top-performing models and automates hyperparameter tuning.
-- ![68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4570697374617369734c61622f74706f742f6d61737465722f696d616765732f74706f742d6d6c2d706970656c696e652e706e67](https://github.com/user-attachments/assets/c602a403-5198-404c-883d-75ef850f0f56)
+ ![68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4570697374617369734c61622f74706f742f6d61737465722f696d616765732f74706f742d6d6c2d706970656c696e652e706e67](https://github.com/user-attachments/assets/c602a403-5198-404c-883d-75ef850f0f56)
 
 
 ### **2. AutoML with H2O**  
