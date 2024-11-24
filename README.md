@@ -30,7 +30,8 @@ The ML pipeline looks like this:
 4. **Hyperparameter Tuning** *(AutoML shines here 🌟)*  
 5. **Model Evaluation and Validation**  
 6. **Serving and Monitoring**
-   ![Screenshot 2024-11-24 184700](https://github.com/user-attachments/assets/06d6184a-e8a4-45f2-8f5f-6ecca8c36ae6)
+   ![Screenshot 2024-11-24 185434](https://github.com/user-attachments/assets/feff409a-5d05-4fd8-8f23-4b2dbe613eba)
+
 
 
 AutoML tools can automate everything from Step 3 onward, giving you more time to innovate!
